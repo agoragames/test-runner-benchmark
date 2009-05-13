@@ -1,0 +1,3 @@
+This is a duck punch for TestRunner which shows you the test which took the 
+longest to run. To use put it anywhere in your load path and require it in your
+test helper.
